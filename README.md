@@ -98,3 +98,4 @@ Observação: os campos `rg` e `cpf` possuem validações de tamanho e apenas d�
 - Incluir testes de integração para endpoints usando um banco controlado pelos testes.
 - Adicionar documentação OpenAPI/Swagger se desejar consumíveis públicos.
 
+
